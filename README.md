@@ -144,4 +144,22 @@ SPEAR is created and maintained by [Ayush](https://www.cse.iitb.ac.in/~ayusham),
 
 1. Chatterjee, Oishik, Ganesh Ramakrishnan, and Sunita Sarawagi. [Data Programming using Continuous and Quality-Guided Labeling Functions](https://arxiv.org/abs/1911.09860), In AAAI 2020.
 
+1. Rishabh Kumar, Abhinav Painuli, Chriss Philip Saji, Devesh Soni, Amrith Krishna, Ganesh Ramakrishnan. [Rolling Out Data Quality Overnight, without losing the plot: A Multi-Agent System for Speech Data Quality Management](https://openreview.net/forum?id=VtlXkkEDnE#discussion), In Findings of ACL 2026.
 
+2. Jahanvi Rajput, Dhruv Kudale, Saikiran Kasturi, Utkarsh Verma, Ganesh Ramakrishnan. [Tables Decoded: DELTA for Structure, TARQA for Understanding](https://openreview.net/forum?id=edxr8WG3vK), In WACV 2026.
+
+3. Ayush Maheshwari, Atul Kumar Singh, Karthika NJ, Krishnakant Bhatt, Preethi Jyothi, Ganesh Ramakrishnan. [LexGen: Domain-aware Multilingual Lexicon Generation](https://arxiv.org/abs/2405.11200), In ACL 2025.
+
+4. Durga S, Atharva Abhijit Tambat, Ganesh Ramakrishnan, Pradeep Shenoy. [Unified Wisdom: Harnessing Collaborative Learning to Improve Efficacy of Knowledge Distillation](https://openreview.net/forum?id=Zj9bb8aQNg), In TMLR 2025.
+
+5. Karthika N J, Krishnakant Bhatt, Ganesh Ramakrishnan, Preethi Jyothi. [LEVOS: Leveraging Vocabulary Overlap with Sanskrit to Generate Technical Lexicons in Indian Languages](https://arxiv.org/abs/2407.06331), In ACL Workshop 2025.
+
+6. Yaswanth M, Vaibhav Singh, Ayush Maheshwari, Amrith Krishna, Ganesh Ramakrishnan. [ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification](https://aclanthology.org/2025.findings-naacl.359/), In Findings of NAACL 2025.
+
+7. Rishabh Kumar, Devaraja Adiga, Rishav Ranjan, Amrith Krishna, Ganesh Ramakrishnan, Pawan Goyal, Preethi Jyothi. [Linguistically informed automatic speech recognition in Sanskrit](https://www.sciencedirect.com/science/article/pii/S0885230825000865), In Computer Speech & Language, 2025.
+
+8. Raavi Gupta, Pranav Hari Panicker, Sumit Bhatia, Ganesh Ramakrishnan. [Consistency Is the Key: Detecting Hallucinations in LLM Generated Text By Checking Inconsistencies About Key Facts](https://arxiv.org/abs/2511.12236), In IJCNLP-AACL 2025.
+
+9. Rishabh Kumar, Sabyasachi Ghosh, Ganesh Ramakrishnan. [Beyond Common Words: Enhancing ASR Cross-Lingual Proper Noun Recognition Using Large Language Models](https://openreview.net/forum?id=3rfE4BSPeR&noteId=X7nbWT9rye), In Findings of EMNLP 2024.
+
+10. Ayush Maheshwari, Preethi Jyothi, Ganesh Ramakrishnan. [DictDis: Dictionary Constrained Disambiguation for Improved NMT](https://openreview.net/forum?id=i0MLSfu7gk), In Findings of EMNLP 2024.
